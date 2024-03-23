@@ -1,0 +1,1 @@
+Projeto de loja virtual criado usando Python/Django, para o curso de Python Impressionador da Hashtag Treinamentos
